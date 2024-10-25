@@ -3,3 +3,5 @@
 3. Run all cells to train the data and to create a h5 file to use in the python code created <br/>
 4. Run the py code through cmd and using streamlit <br/>
 
+Note:<br/>
+Replace all path with the directory where the file is located<br/>
