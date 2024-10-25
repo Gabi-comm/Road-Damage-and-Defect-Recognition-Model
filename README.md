@@ -4,4 +4,4 @@
 4. Run the py code through cmd and using streamlit <br/>
 
 Note:<br/>
-Replace all path with the directory where the file is located<br/>
+Replace all path with the directory where the specific file is located in the ipynb file<br/>
