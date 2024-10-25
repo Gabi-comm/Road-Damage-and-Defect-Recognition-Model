@@ -6,7 +6,8 @@ import tensorflow as tf
 import numpy as np
 
 
-model=load_model(r'C:\Users\DELL\Downloads\Model\road_damage_and_defect_recog_model_v2.h5')
+model=load_model(r'C:\Users\DELL\Downloads\Model\road_damage_and_defect_recog_model_v2.h5') 
+#replace the "C:\Users\DELL\Downloads\Model\road_damage_and_defect_recog_model_v2.h5" with your directory
 road_defects=['D00', 'D10', 'D20', 'D30', 'D40', 'D50', 'D60', 'D70', 'D80', 'D90']
 st.header('Road Damage and Defect Classification Model')
 
